@@ -1,9 +1,10 @@
 # Olá, bem vindo ao meu perfil! 👋
 
 + *Me chamo Weulle Porfirio*
-+ *Tenho 21 anos de idade*
++ *Tenho 23 anos de idade*
 + *Brasileiro*
 + *Tecnólogo em Logística*
++ *Engenharia de software(2/8)*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeulleP&layout=compact)](https://github.com/WeulleP/github-readme-stats)
 
